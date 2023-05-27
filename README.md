@@ -211,13 +211,13 @@ Publish the website in the given URL.
 ### Home Page:
 
 ![output](img1.png)
-### img2 page
+## img2 page
 ![output](img2.png)
-### img3 page
+## img3 page
 ![output](img2.png)
-### img4 page
+## img4 page
 ![output](img4.png)
-###img5 page
+##img5 page
 ![output](img5.png)
 ## Result:
 
