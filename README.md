@@ -26,7 +26,14 @@ Choose the appropriate style and color scheme.
 
 Validate the layout in various browsers.
 
+
+
+
 ### Step 6:
+
+Publish the website in the given URL.
+
+## PROGRAM :
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -199,14 +206,6 @@ Validate the layout in various browsers.
   </body>
 </html>
 `
-
-
-### Step 6:
-
-Publish the website in the given URL.
-
-## PROGRAM :
-
 ## OUTPUT:
 
 ### Home Page:
