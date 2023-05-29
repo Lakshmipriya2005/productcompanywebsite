@@ -215,7 +215,7 @@ Publish the website in the given URL.
 ## img2 page
 ![output](img2.png)
 ## img3 page
-![output](img2.png)
+![output](img3.png)
 ## img4 page
 ![output](img4.png)
 ## img5 page
